@@ -1,0 +1,17 @@
+{
+  "id": "/",
+  "name": "Daymark — Personal Roadmap Tracker",
+  "short_name": "Daymark",
+  "description": "Track IELTS, Full Stack, thesis, and daily routine progress.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f8fc",
+  "theme_color": "#f7f8fc",
+  "icons": [
+    { "src": "/icons/daymark-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/daymark-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/daymark-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
